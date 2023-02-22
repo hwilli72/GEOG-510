@@ -16,12 +16,12 @@ ___
 ![alt text](https://media.licdn.com/dms/image/C4E22AQHZBr9kmra6Eg/feedshare-shrink_2048_1536/0/1663192591324?e=2147483647&v=beta&t=BjPmW1LIRvjAktDTmGPfH5Z3RvaGioV5TgN0wrrrn8k "Discovery Day 2022")
 
 3. #### Code blocks  
-    Code blocks are used to display code in a document. To do so, just surround the code with three backticks. For example, the following code block contains Python code.
-    
-    '''python
-    def hello_world():
-    print("Hello World!")
-    '''
+    Code blocks are used to display code in a document. To do so, just surround the code with three backticks. For example, the following code block contains Python code that prints "Hello, World!" to the console.
+
+```python
+s = "Hello, World!"
+print s
+```
 
 4. #### Inline code
     Inline code is used to highlight code within a sentence. To do so, just surround the 'code' with a single backtick. 'I can write this entire sentence in inline code.'
