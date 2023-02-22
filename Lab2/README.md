@@ -7,9 +7,9 @@ ___
 1. #### Hyperlinks  
     Markdown allows you to create hyperlinks within the text. For example, the following list contains various links to websites.
 
-      *[Google](https://www.google.com/)  
-      *[My GitHub Profile](https://github.com/hwilli72)  
-      *[Information on Markdown](https://en.wikipedia.org/wiki/Markdown)  
+      * [Google](https://www.google.com/)  
+      * [My GitHub Profile](https://github.com/hwilli72)  
+      * [Information on Markdown](https://en.wikipedia.org/wiki/Markdown)  
 
 2. #### Images  
     This image shows me sharing my research on *Beneficial social impacts of urban green spaces in Knox County, Tennessee* at the 2022 Discovery Day for undergraduate research.
@@ -25,7 +25,7 @@ print s
 ```
 
 4. #### Inline code
-    `Inline code` is used to highlight code within a sentence. To do so, just surround the `code` with a single backtick. 
+    `Inline code` is used to highlight code within a sentence. To do so, just surround the `code` with a single backtick.   
     `I can write this entire sentence in inline code.`
 
 5. #### YouTube videos  
