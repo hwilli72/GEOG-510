@@ -5,12 +5,15 @@ This lab is designed to help you get familiar with Markdown and Jupyter Notebook
   Markdown is a lightweight markup language with plain text formatting syntax. It is designed so that it can be converted to HTML and many other formats using a tool by the same name. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
 
 1. #### Hyperlinks  
-  Markdown allows you to create hyperlinks within the text. For example, the following is a link to [Google](https://www.google.com/).
+    Markdown allows you to create hyperlinks within the text. For example, the following list contains various links to websites.   
+    +[Google](https://www.google.com/).
+    +[My GitHub Profile](https://github.com/hwilli72).
+    +[Information on Markdown](https://en.wikipedia.org/wiki/Markdown).
 
 2. #### Images  
-![alt text](https://media.licdn.com/dms/image/C4E22AQHZBr9kmra6Eg/feedshare-shrink_2048_1536/0/1663192591324?e=2147483647&v=beta&t=BjPmW1LIRvjAktDTmGPfH5Z3RvaGioV5TgN0wrrrn8k "Discovery Day 2022")
+    This image shows me sharing my research on *Beneficial social impacts of urban green spaces in Knox County, Tennessee* at the 2022 Discovery Day for undergraduate research.
 
-  This image shows me sharing my research on *Beneficial social impacts of urban green spaces in Knox County, Tennessee* at the 2022 Discovery Day for undergraduate research.
+![alt text](https://media.licdn.com/dms/image/C4E22AQHZBr9kmra6Eg/feedshare-shrink_2048_1536/0/1663192591324?e=2147483647&v=beta&t=BjPmW1LIRvjAktDTmGPfH5Z3RvaGioV5TgN0wrrrn8k "Discovery Day 2022")
 
 3. #### Code blocks  
 
