@@ -1,0 +1,6 @@
+In Python you can use the print function to print to the console.
+In Python you can create lists using square brackets.
+In Python you can create dictionaries using curly brackets.
+In Python you can create tuples using parentheses.
+In Python you can make programs that do things.
+In Python you can do math with one line of code.
